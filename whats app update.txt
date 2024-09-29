@@ -1,9 +1,10 @@
 WHATS APP UPDATE
 
-Chat
+1.Chat
+  1.1 Add Video Chat
+  1.2 Add Voice Chat
+2.Group
 
-Group
-
-Status
+3.Status
  
-Page
+4.Page
