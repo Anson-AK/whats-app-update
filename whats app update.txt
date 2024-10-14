@@ -4,8 +4,8 @@ WHATS APP UPDATE
   1.1 Add Video Chat
   1.2 Add Voice Chat
   1.3 Add Custom Last Seen Feature 
-2.Group
-    2.1 add Group Calling
+2.Add WhatsApp Group
+    2.1 Maximum 100 members
 3.Status
     3.1 Status Video Play Upto 60 Seconds 
 4.Add Whats App Channels
