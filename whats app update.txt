@@ -11,7 +11,7 @@ WHATS APP UPDATE
 4.Add Whats App Channels
   4.1 Creat Whats App Channels.
   4.2 Follow Button.
-5.Media Send
+5.Message Attachment
   5.1 audio
   5.2 video
   5.3 images
